@@ -1,0 +1,20 @@
+{
+  "name": "mail1.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "ssfw",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
